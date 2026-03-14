@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "LAST CALL",
+  "base_artist": "中西保志",
+  "createdAt": "2026-03-14T13:44:31.035331Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Last Call",
+      "artist": "Lee Ann Womack",
+      "has_synced": true,
+      "path": "select/01_Last_Call_Lee_Ann_Womack.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Last Call (Album Version)",
+      "artist": "Lee Ann Womack",
+      "has_synced": true,
+      "path": "select/02_Last_Call_(Album_Version)_Lee_Ann_Womack.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Last Call (Afterparty Mix)",
+      "artist": "Liz",
+      "has_synced": false,
+      "path": "select/03_Last_Call_(Afterparty_Mix)_Liz.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Last Call (feat. Slimm Calhoun, Lil' Jon, The EastSide Boyz & Mello)",
+      "artist": "OutKast, Slimm Calhoun, Lil Jon, Eastside Boyz & Mello",
+      "has_synced": false,
+      "path": "select/04_Last_Call_(feat._Slimm_Calhoun,_Lil'_Jon,_The_EastSide_Boyz_&_Mello)_OutKast,_Slimm_Calhoun,_Lil_Jon,_Eastside_Boyz_&_Mello.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Last Call (feat. Slimm Calhoun, Lil Jon & The East Side Boyz & Mello)",
+      "artist": "OutKast",
+      "has_synced": false,
+      "path": "select/05_Last_Call_(feat._Slimm_Calhoun,_Lil_Jon_&_The_East_Side_Boyz_&_Mello)_OutKast.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Last Call",
+      "artist": "Tinashe",
+      "has_synced": true,
+      "path": "select/06_Last_Call_Tinashe.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Last Call",
+      "artist": "Tinashe",
+      "has_synced": true,
+      "path": "select/07_Last_Call_Tinashe.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Last Call",
+      "artist": "Brazilian Girls",
+      "has_synced": false,
+      "path": "select/08_Last_Call_Brazilian_Girls.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Last Call",
+      "artist": "David Lynch",
+      "has_synced": true,
+      "path": "select/09_Last_Call_David_Lynch.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Last Call",
+      "artist": "Doomtree",
+      "has_synced": true,
+      "path": "select/10_Last_Call_Doomtree.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Homer’s Barbershop Quartet (medley): One Last Call / Baby on Board",
+      "artist": "The Simpsons",
+      "has_synced": false,
+      "path": "select/11_Homer’s_Barbershop_Quartet_(medley)__One_Last_Call___Baby_on_Board_The_Simpsons.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Last Call",
+      "artist": "The Ghost of a Saber Tooth Tiger",
+      "has_synced": true,
+      "path": "select/12_Last_Call_The_Ghost_of_a_Saber_Tooth_Tiger.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Last Call",
+      "artist": "The GOASTT (The Ghost Of A Saber Tooth Tiger)",
+      "has_synced": true,
+      "path": "select/13_Last_Call_The_GOASTT_(The_Ghost_Of_A_Saber_Tooth_Tiger).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Last Call",
+      "artist": "David Lee Roth",
+      "has_synced": true,
+      "path": "select/14_Last_Call_David_Lee_Roth.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Last Call For Rock 'N' Roll",
+      "artist": "Quiet Riot",
+      "has_synced": false,
+      "path": "select/15_Last_Call_For_Rock_'N'_Roll_Quiet_Riot.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Last Call For Rock And Roll",
+      "artist": "Quiet Riot",
+      "has_synced": false,
+      "path": "select/16_Last_Call_For_Rock_And_Roll_Quiet_Riot.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Last Call",
+      "artist": "Ratt",
+      "has_synced": true,
+      "path": "select/17_Last_Call_Ratt.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LAST CALL",
+      "artist": "中西 保志",
+      "has_synced": false,
+      "path": "select/pl_01_LAST_CALL_中西_保志.txt"
+    }
+  ]
+}
